@@ -1,12 +1,12 @@
 <!-- base-font-size: 80% -->
 <!-- numbering -->
 <!-- center -->
-<!-- font-size: 200% -->
-###* Anleitung Diplomify
+<!-- font-size: 150% -->
+<!-- unnumbered -->
+# Noteneintragung in Diplomify
 <!-- /font-size -->
 
-
-Version {date}<br><br><br>
+Version <!-- date -->26.11.2026<!-- /date --><br><br><br>
 <!-- font-size: 80% -->
 <!-- width: 75% -->
 Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichzeitige Verwendung der Sprachformen männlich, weiblich und divers (m/w/d) verzichtet.
