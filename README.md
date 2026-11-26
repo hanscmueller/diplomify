@@ -1,2 +1,2 @@
 # Projektübersicht
-👉 **[Hier geht es direkt zum Hauptdokument](Diplomify.md)**
+👉 **[Hier geht es direkt zur Anleitung](Diplomify.md)**
