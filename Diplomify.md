@@ -1,10 +1,10 @@
 <!-- base-font-size: 80% -->
 <!-- numbering -->
-
 <!-- center -->
 <!-- font-size: 200% -->
-**Anleitung Diplomify**
+###* Anleitung Diplomify
 <!-- /font-size -->
+
 
 Version {date}<br><br><br>
 <!-- font-size: 80% -->
