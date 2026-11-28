@@ -47,7 +47,9 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 
 ❗ Stand: <!-- date -->28.11.2026<!-- /date --><br><br>
 
-* Zeugnisvorlage: doppelt Wahlfreier Unterricht / Wahlpflichtunterricht
+* Zeugnisvorlage: Block Wahlpflichtunterricht muss weg; Doppelpunkte hinter Abschnitten fehlen
+* Fächer mit „unsinnigen“ Schülern in Klassenübersicht durch temporäre Zuordnungen in WebUntis, die leider ungefiltert übernommen werden
+* Versetzungswarnungen noch nicht implementiert
 
 ---
 
