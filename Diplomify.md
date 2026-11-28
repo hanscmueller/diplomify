@@ -43,6 +43,14 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 
 ---
 
+## Bekannte Fehler
+
+❗ Stand: <!-- date -->28.11.2026<!-- /date --><br><br>
+
+* Zeugnisvorlage: doppelt Wahlfreier Unterricht / Wahlpflichtunterricht
+
+---
+
 ## allgemeine Hinweise
 
 * Im ersten Durchgang sind wir bis zum Ausdruck der fertigen Zeugnisse selbstverständlich in einer Testphase, da gibt es für alle viel zu lernen. Trotz viel Vorarbeit wird sicherlich noch nicht alles so rund laufen wie zuletzt mit KLV. Die Vorteile von Diplomify sollten aber mit der Zeit allen Aufwand rechtfertigen.
@@ -183,7 +191,7 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 ---
 
 
-## Bemerkungen, AGs und AV- und SV-Einträge [Fachlehrer]
+## Bemerkungen, AGs und AV/SV-Einträge [Fachlehrer]
 
 ❗ Wichtig: Alles hier eingetragene muss vom Klassenlehrer übernommen werden; er bekommt angezeigt, was die Fachlehrer aufs Zeugnis haben wollen
 
