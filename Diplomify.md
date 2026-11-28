@@ -5,8 +5,10 @@
 <!-- unnumbered -->
 # Noteneintragung in Diplomify
 <!-- /font-size -->
-
-Version <!-- date -->26.11.2026<!-- /date --><br><br><br>
+<!-- font-size: 120% -->
+**–– Testphase ––**
+<br><br>
+Version <!-- date -->28.11.2026<!-- /date --><br><br><br>
 <!-- font-size: 80% -->
 <!-- width: 75% -->
 Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichzeitige Verwendung der Sprachformen männlich, weiblich und divers (m/w/d) verzichtet.
@@ -38,6 +40,18 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 
 * Wenn alles gelöscht ist, sollte die Kachel wieder „nackt“ aussehen 
 * Notenwarnungen müssen aber händisch entfernt werden
+
+---
+
+## allgemeine Hinweise
+
+* Im ersten Durchgang sind wir bis zum Ausdruck der fertigen Zeugnisse selbstverständlich in einer Testphase, da gibt es für alle viel zu lernen. Trotz viel Vorarbeit wird sicherlich noch nicht alles so rund laufen wie zuletzt mit KLV. Die Vorteile von Diplomify sollten aber mit der Zeit allen Aufwand rechtfertigen.
+* Diese Anleitung ist (aufgrund des frühen Stadiums) nur an dieser Stelle und dieser Form zu finden. Ich erstelle keine pdfs, die dann aufgehoben und Jahre später immer noch (völlig veraltet) benutzt werden.
+* Bitte unterstützt mich und alle anderen durch Rückmeldungen jeglicher Art – per Mail, Messenger oder auch GitHub (→ Issues). Das betrifft auch:
+  * fehlende Floskeln
+  * unklare Anleitung
+> Vielen Dank!
+
 
 ---
 
@@ -126,7 +140,8 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 
 `Mein Unterricht > bewerten`
 
-<!-- width: 15% -->
+❗  müssen wegen der Umstellung auf Diplomify einmalig für dieses Halbjahr händisch geprüft werden *[leider nicht anders umsetzbar]*
+<!-- width: 10% -->
   ![](Abbildungen/Notensprung.png)
   * in Abb. von links nach rechts: Symbol für Eingabe einer anderen als der aktuellen Fachlehrkraft; aktuelle Note, schlechter als 4; Vornote in Klammern; Indikator für Begründung des Notensprungs
   * negativer Notensprung erkennbar an rot dargestellter Vornote
@@ -177,9 +192,9 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 `Mein Unterricht > bewerten > Abschnitt Arbeits- & Sozialverhalten (AV/SV)`
 * Haken bei "Untätig der Klassenleitung zustimmen." rausnehmen; Bewertung setzen; ggf. Begründung einfügen<br><br>
 
-### Eintragen von AGs
+### Eintragen von AGs und Studienstunden
 
-* erfolgt automatisch, wenn Schüler in WebUntis der AG zugeordnet ist
+* erfolgt automatisch, wenn Schüler in WebUntis der AG bzw. der Studienstunde zugeordnet ist
 * Soll ein Schüler wegen häufigen Fehlens den Eintrag nicht erhalten, diesen aus dem Unterricht löschen.
 
 <!-- font-size: 50% -->
@@ -195,10 +210,10 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 
 ### Prüfen und Eintragen AV/SV
 `Klassenübersicht > Reiter "Av/Sv | Bemerkungen"`
+  * Vorbelegung für alle Schüler ist `F`; hier erscheint *kein* Eintrag im Zeugnis
 <!-- width: 35% -->
 ![](Abbildungen/AVSV.png)
-  * Vorbelegung für alle Schüler ist `F`; hier erscheint *kein* Eintrag im Zeugnis
-  * über Kopf AV bzw. SV links „alle ausfüllen: C“ zunächst alle Schüler mit C belegen
+  * Klick auf Kopf AV bzw. SV links: „alle ausfüllen: C“ (belegt zunächst alle Schüler mit C)
   * für Anpassungen bei Abweichungen von `C`: Regler rechts entsprechend setzen, Einschätzung des Klassenkollegiums ist über Anzahlen oberhalb des Reglers erkennbar; für `D` und `E` Text ins Feld Bemerkungen eintragen, dabei das Symbol `</>` für Wahl des Vornamens bzw. Platzhalter `/vorname` verwenden.
 
 
@@ -220,13 +235,13 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 
 ## DAZ-Schüler [Klassenlehrer]
 
-* todo
+* *todo*
 
 ---
 
 ## Abgangszeugnisse [Klassenlehrer]
 
-* todo
+* *todo*
 
 ---
 
@@ -235,10 +250,11 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 * Checkliste prüfen (s.o.)
 `Klassenübersicht > Klasse auswählen > Checkliste anzeigen (oben rechts)`<br><br>
 * Zeugnisvorschau
-  * Einzelzeugnisse über `Klassenübersicht > Schüler > Symbol rechts neben Schüler`
   * ❗ nur möglich, wenn eine Zeugnisvorlage in der Vorbereitung gewählt wurde)
-<!-- width: 5% -->
-![](Abbildungen/Zeugnis.png)
+
+  * Einzelzeugnisse über `Klassenübersicht > Av/Sv | Bemerkungen > Zeugnisvorschau`
+<!-- width: 30% -->
+![](Abbildungen/Zeugnisvorschau.png)
   * Zeugnisse der gesamten Klasse über `Klassenübersicht > Zeugnisse > Button "Alle Zeugnisse" unten rechts`
 <!-- width: 15% -->
 ![](Abbildungen/alleZeugnisse.png)
@@ -249,6 +265,7 @@ Hinweis: Aus Gründen der besseren Lesbarkeit wird im Folgenden auf die gleichze
 # Zeugniskonferenz [Klassenlehrer]
 
 `Klassenübersicht > Klasse auswählen > Zeugniskonferenz starten > (oben rechts)`<br><br>
+  * *todo*
 
 
 ---
